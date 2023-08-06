@@ -46,7 +46,7 @@
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
   <p align="center">
-  <a href="https://shivaya-dav.github.io/dogeweb/">
+  <a href="https://youtube.com/@isidhuuu/">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
@@ -141,16 +141,16 @@ fun getAppData(): AppData {
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/CyberShieldX">
+  <a href="https://t.me/garryplays">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/CyberShieldX">
+  <a href="https://instagram.com/Garry_AKLIA31">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/CyberShieldX">
+  <a href="https://twitter.com/gaarrrrrrry">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.youtube.com/@sphanter/about">
+  <a href="https://www.youtube.com/@isidhuuu/about">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
@@ -169,7 +169,7 @@ fun getAppData(): AppData {
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@GARRY_AKLIA31</code></a> and the Telegram handle is <a . Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
@@ -178,31 +178,3 @@ fun getAppData(): AppData {
 
 
 
-
-
-<p align="center">
-<h1 align="center">Sponsorship</h1>
-
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
-  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-
-
-
-
-<p align="center">Thank you to the following people for their support:</p>
-
-<div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  
-  -------------------------
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
-</div>
